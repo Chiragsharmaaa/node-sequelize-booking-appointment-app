@@ -1,4 +1,3 @@
-// commit id: f0c234f730cb956158e036839e32cc7da8adafb0
 const baseURL = "http://localhost:3000";
 
 const form = document.getElementById("form-control");
